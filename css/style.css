@@ -172,14 +172,12 @@ h3 { text-align:center;}
 #main	{ width: 90%;
 		  float : left;
 		}
-#about h3 { 
-		  }
+
 #hobby ul { position:relative;
 			bottom:30px;
 			padding-bottom:10px;
 			bottom:35%;
 			left:10%;
-			
 		  }
 #hobby h3{ position:relative;	
 			padding-bottom:10px;
@@ -187,7 +185,9 @@ h3 { text-align:center;}
 }
 
 @media screen and min-width:800px) {
-#
+#food ul { position:relative;
+			padding:60;
+}
 }
 #map { height: 600px;
   /* The height is 400 pixels */
