@@ -16,4 +16,7 @@ function initMap() {
 	icon:'crash.png',
   });
 }
+$(document).ready(function(){
+	$('.bxslider').bxSlider();
+});
 google.maps.event.addDomListener(window, 'load', initMap);
