@@ -191,7 +191,7 @@ h3 { text-align:center;}
 
 @media screen and min-width:800px) {
 #food ul { position:relative;
-			padding:60;
+			padding:60px;
 		 }
 }
 #map { height: 600px;
